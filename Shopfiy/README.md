@@ -4,7 +4,7 @@ This is basically landing of paytm clone   responsive  website project made in H
  
 ## 🚩 thumbnail
  
-![paytm website](images/assets/thumbnail.png)
+![Shopfiy website](images/assets/thumbnail.png)
 ## 🛠 Technologies Used
   - HTML - Hyper Text Markup Language
   - tailwindcss
